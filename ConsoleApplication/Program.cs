@@ -4,7 +4,7 @@ using System.Threading;
 using Core;
 using Timer = System.Timers.Timer;
 
-namespace ConsoleApplication1
+namespace ConsoleApplication
 {
     public class Program
     {
